@@ -1,6 +1,6 @@
 # JPaint
 JPaint is a “MS Paint”-like application in Java, a semester long final project for SE450 at Depaul University.
-It will have the following features:
+The project should have the following features:
 - Pick a shape
     - Ellipse
     - Triangle
